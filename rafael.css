@@ -1,0 +1,145 @@
+.yellow{
+ 	color: #e3b564;
+}
+.brown{
+	color: #323232;
+}
+
+.azuldark{
+	color: #1d2228;
+}
+
+
+.box-construction-item{
+	background-color: #e3b564;
+	height: 130px;
+	width: 130px;
+	padding: 3%;
+	display: inline-block;
+}
+.center{
+	text-align: center;
+}
+.construction{
+		padding-top: 5%;
+	    background-color: #323232;
+	   	height: 600px;
+}
+.construction-logo{
+	height: 100px;
+}
+
+.font-monse{
+	font-family: 'Montserrat', sans-serif;
+}
+.font-dancing{
+	font-family: 'Dancing Script', cursive;
+}
+
+.font1{
+	color: #e3b564;
+	font-family: 'Montserrat', sans-serif;  
+}
+
+.ROHeader{
+	background-image: url("maletin.jpg");
+	height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(50,50,50,100);
+    background-blend-mode: darken;
+    color: white;
+
+    padding-top: 2em;
+ }
+
+ .ROLogo{
+ 	height: 100px;
+ }
+.ROLogoBig{
+	height: 300px;
+}
+ .ROLogotipo{
+ 	width: 300px;
+ }
+
+ .ROsubtitle{
+ 	color: #e3b564;
+ 	font-family: 'Montserrat', sans-serif;
+ }
+
+.ROleft{
+	background-color: #e3b564;
+}
+.ROright{
+	background-color: #323232;
+}
+.ROleftB{
+	background-color: white;
+}
+.ROrightB{
+	background-color: black;
+}
+.ROleft, .ROright, .ROleftB, .ROrightB{
+	text-align: center;
+	padding-top: 7%;
+	min-height: 500px;
+}
+
+.tapiz{
+		padding-left: 5%;
+		padding-top: 5%;
+	    background-color: #e3b564;
+	   	height: 450px;
+}
+
+.tapizlogo{
+	height: 80px;
+	padding-bottom: 15%;
+	padding-right: 3em;
+}
+.tapizlogo-mini{
+	height: 30px;
+	padding-top: 25%;
+	padding-right: 3em;
+}
+@media (min-width: 576px) {
+
+	
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+#ROHeader{
+
+}
+#ROtapiz{
+	background-image: url("tapiz.png");
+}
+#ROconstruction{
+
+}
+#ROnegative{
+	background-color: #323232;
+ }
+
+ #ROidentidad{
+ 	background-color: #323232;
+ }
+ .R07{
+ 	width: 100%;
+ }
+#ROidentidad2{
+
+}
+
+#Tipografic{
+	height: 500px;
+}

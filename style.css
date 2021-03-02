@@ -1,0 +1,48 @@
+.antirow{
+	width: 100%;
+}
+.tcenter{
+	text-align: center;
+}
+
+.twhite{
+	color: white;
+}
+.margin-b3{
+		margin-bottom: 3em;				
+}
+.padding1{
+	padding-top: 1em;
+}
+
+.padding-top3{
+	padding-top: 3em;
+}
+.parallax1{
+	background-image: url("busineshom1.png");
+	background-size: 100%;
+	height: 250px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background.size: cover;
+}
+
+.parallax2{
+	background-image: url("RO1.png");
+	background-size: 100%;
+	height: 300px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background.size: cover;
+}
+.parallax3{
+	background-image: url("colorsBrand.png");
+	background-size: 100%;
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background.size: cover;
+}
