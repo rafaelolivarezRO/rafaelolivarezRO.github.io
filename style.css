@@ -18,15 +18,7 @@
 .padding-top3{
 	padding-top: 3em;
 }
-.parallax1{
-	background-image: url("busineshom1.png");
-	background-size: 100%;
-	height: 250px;
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background.size: cover;
-}
+
 
 .parallax2{
 	background-image: url("RO1.png");
